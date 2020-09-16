@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSize">
+        10sp
+    </dimen>
+    <dimen name="bottomLayoutHeight">40dp</dimen>
+    <dimen name="topLayoutHieght">100dp</dimen>
+    <dimen name="topLayoutPadding">5dp</dimen>
+    <dimen name="topLayoutMargin">5dp</dimen>
+    <dimen name="raduisCorner">5dp</dimen>
+    <dimen name="textViewMarginTop">5dp</dimen>
+    <!-- splash screen items sizes-->
+    <dimen name="splashScreenTextSize">15sp</dimen>
+    <dimen name="splashScreenLogoWidth">55dp</dimen>
+    <dimen name="splashScreenLogoHeight">55dp</dimen>
+</resources>
